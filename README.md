@@ -1,5 +1,4 @@
 # Star's `.blend` Files!
-
 <p align="center">
   <img src="/_Media/FAHHHH.png">
 </p>
@@ -23,7 +22,7 @@ A single File:
 
 ## Special Thanks
 * [Mken](https://x.com/Mken_TechArt) | Setup Wizard
-* [fnjoji](https://x.com/fnoji) | Isaac's face rig
+* [fnoji](https://x.com/fnoji) | Isaac's face rig
 * [festivities](https://github.com/festivities) | Shaders
 * [katboi01](https://github.com/katboi01) | Umaviewer
 * [Melioli](https://github.com/Melioli) | HoyoToon CDN
