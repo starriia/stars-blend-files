@@ -17,5 +17,6 @@ A single File:
 <p align="center">
   <img src="/_Media/Downlaod Tutorial.gif">
 </p>
+
 > [!NOTE]
 > You may want to use [DownGit](https://downgit.evecalm.com/#/home) to download individual files that you need instead of cloning the entire repository
