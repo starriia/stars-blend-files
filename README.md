@@ -1,7 +1,7 @@
 # Star's [.blend] Files!
 
 <p align="center">
-  <img src="/Media/FAHHHH.png">
+  <img src="/_Media/FAHHHH.png">
 </p>
 
 > [!NOTE]
