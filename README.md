@@ -6,7 +6,15 @@
 > [!IMPORTANT]
 > The `Umamusume` models are compatible with native Blender.
 > All other models require Goo Engine 4.1.1 or later.
+---
 
+<p align="center">
+    <a href="https://github.com/starriia/stars-blend-files/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/starriia/stars-blend-files?style=for-the-badge"></a>
+    <a href="https://discord.gg/85rP9SpAkF"><img alt="Discord" src="https://img.shields.io/discord/894925535870865498?style=for-the-badge"></a>
+    <a href="https://github.com/starriia/stars-blend-files/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/starriia/stars-blend-files?style=for-the-badge"></a>
+</p>
+
+---
 ## How to Download
 
 The Entire Repository:
