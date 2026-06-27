@@ -7,6 +7,7 @@
 > [!IMPORTANT]
 > The `Umamusume` models are compatible with native Blender.
 > All other models require Goo Engine 4.1.1 or later.
+> Credit isn't needed for these models, but don't go reupload these and act like you made them, that's uncool!
 
 ---
 
